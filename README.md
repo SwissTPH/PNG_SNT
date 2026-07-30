@@ -29,12 +29,15 @@ Data from routine eNHIS are not publicly available and were obtained with reques
 6.	Determining eligibility criteria
 7.	Intervention targeting and strategic prioritization 
 8.	Generation of manuscript figures and tables (ManuscriptFigures.R)
-Reproducibility
+
+## Reproducibility
+
 Because the surveillance data cannot be shared publicly, this repository provides:
-•	documentation of the analytical workflow
-•	code used to generate the manuscript figures and tables
+- Documentation of the analytical workflow
+- Code used to generate the manuscript figures and tables
 
 ## Software
+
 Analyses were performed in R (version 4.5.1)
 
 ## Citation
