@@ -10,11 +10,12 @@ Malaria remains a persistent public health challenge in Papua New Guinea (PNG), 
 ## Data:
 
 The analyses use multiple data sources including:
-•	Routine malaria surveillance data from the electronic national health information system (eNHIS)
-•	Population distribution
-•	Elevation 
-•	Travel time to health facility
-•	Prevalence data from MIS/DHS survey
+
+- Routine malaria surveillance data from the electronic national health information system (eNHIS)
+- Population distribution
+- Elevation
+- Travel time to health facility
+- Prevalence data from MIS/DHS survey
 
 Data from routine eNHIS are not publicly available and were obtained with request from the NMCP of PNG. Restrictions apply to the availability of these data and permission can be obtained with reasonable request from NDoH.
 
