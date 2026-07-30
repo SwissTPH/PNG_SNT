@@ -43,7 +43,7 @@ Analyses were performed in R (version 4.5.1)
 ## Citation
 
 If you use this code, please cite:
-Thawer SG, Seidahmed O, Timbi D, et al. Malaria risk stratification and sub-national tailoring of interventions in Papua New Guinea. (Manuscript under review.)
+Thawer SG, Seidahmed O, Timbi D, et al. Malaria risk stratification and sub-national tailoring of interventions in Papua New Guinea. (Manuscript under review).
 
 ## Funding
 
